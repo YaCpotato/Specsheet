@@ -30,6 +30,12 @@ Yasshi's Workspace https://www.yasshisworkspace.com/
 データセットに人工的なノイズ(回転、色反転等)を付与することで精度を向上させる手法があります。  
 現在は、そのノイズの掛け方(方針)を、強化学習方式で最適化していく手法　Auto augmentを、まずは主要なデータセットで動かすべく奮闘中です  
 ***
+#### 研究環境
+OS: ubuntu,RHEL  
+エディタ,IDE：vim,vscode,jupyter,spyder  
+ライブラリ管理：pip(python=3.7)  
+主要ライブラリ：tensorflow,keras,pytorch,pandas,pillow
+***
 ### 僕のポイント
 
 ・技術的好奇心の塊(なんでもやる(たぶん))  
