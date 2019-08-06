@@ -16,7 +16,8 @@ Yasshi's Workspace https://www.yasshisworkspace.com/
 2. Nuxt.js  とある企業の1日プロトタイプ開発にゲスト参加し、Firebaseと連携しアプリケーションを開発。加えて、Yasshi's WorkspaceもNuxt.jsで作製したものである  
 3. Java Servlet  アルバイトでの経験。開発対象アドオン本体のサーブレット構築と、他のアドオンとの連携のためのAPI構築。 
 4. Django,Flask  Django girls Tutorial extension終了。Django girlsのコーチも担当。双方、REST APIの実装やセキュリティを考慮した実装
-5. Laravel  掲示板アプリ作製、REST API構築　[リンク](https://github.com/YaCpotato/laravel-bulltin-extended)
+5. Laravel  掲示板アプリ作製、REST API構築　[リンク](https://github.com/YaCpotato/laravel-bulltin-extended)  
+あ、あとunixのコマンド少しできます
 ***  
 
 ### アルバイトについて
