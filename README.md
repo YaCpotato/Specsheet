@@ -12,7 +12,6 @@
 Yasshi's Workspace https://www.yasshisworkspace.com/  
 ***
 ### これまでに触れた言語とレベル(※アルバイト経験と書いてない場合は趣味)
-***
 1. Vue.js  アルバイトでの経験に加え、[プロジェクトメモツール](https://github.com/YaCpotato/laravueStudy)を開発。同成果物にはVuexと、Vuex ORM、Vuex persistedstateを使用し、ブラウザのCokkieを使用しデータの保持を実現した  
 2. Nuxt.js  とある企業の1日プロトタイプ開発にゲスト参加し、Firebaseと連携しアプリケーションを開発。加えて、Yasshi's WorkspaceもNuxt.jsで作製したものである  
 3. Java Servlet  アルバイトでの経験。開発対象アドオン本体のサーブレット構築と、他のアドオンとの連携のためのAPI構築。 
@@ -31,8 +30,9 @@ Yasshi's Workspace https://www.yasshisworkspace.com/
 データセットに人工的なノイズ(回転、色反転等)を付与することで精度を向上させる手法があります。  
 現在は、そのノイズの掛け方(方針)を、強化学習方式で最適化していく手法　Auto augmentを、まずは主要なデータセットで動かすべく奮闘中です  
 ***
+### 僕のポイント
 
-・技術的好奇心の塊
+・技術的好奇心の塊(なんでもやる(なんでもやるとは言ってない))
 ・暇さえあればインプット、アウトプット
 ・ゲームが好き  
 
