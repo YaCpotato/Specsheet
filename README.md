@@ -10,7 +10,8 @@
   
 この頃からWeb系の言語に本格的に触れはじめ、自らWebサイト運営も始めた  
 Yasshi's Workspace https://www.yasshisworkspace.com/  
-これまでに触れた言語とレベル(※アルバイト経験と書いてない場合は趣味)
+**
+### これまでに触れた言語とレベル(※アルバイト経験と書いてない場合は趣味)
 **
 1. Vue.js  アルバイトでの経験に加え、[プロジェクトメモツール](https://github.com/YaCpotato/laravueStudy)を開発。同成果物にはVuexと、Vuex ORM、Vuex persistedstateを使用し、ブラウザのCokkieを使用しデータの保持を実現した  
 2. Nuxt.js  とある企業の1日プロトタイプ開発にゲスト参加し、Firebaseと連携しアプリケーションを開発。加えて、Yasshi's WorkspaceもNuxt.jsで作製したものである  
