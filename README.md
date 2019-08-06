@@ -23,7 +23,9 @@ Yasshi's Workspace https://www.yasshisworkspace.com/
 ### アルバイトについて
 #### Atlassian Confluenceのプラグイン開発
 　Confluenceのバージョンは6.4.1、jQueryのデフォルトは1.8。割とレガシーな環境にVue.jsを導入しようとして現在詰まっています（デバッグ環境では動くのに製品版では動かない現象）  
-とりあえず取引先とのデモはデバッグ環境でも良いと言われたのでせっせと他の機能開発に勤しんでいるところです。担当はJava ServletのAPI作成とVue.jsを用いたダイアログ、DB格納処理作成  
+とりあえず取引先とのデモはデバッグ環境でも良いと言われたのでせっせと他の機能開発に勤しんでいるところです。担当はJava ServletのAPI作成とVue.jsを用いたダイアログ、DB格納処理作成 
+#### naoの研究開発
+　TBW  
 ***
 ### 研究について
 　キーワード：転移学習、強化学習、Data augment、BC learning、、、etc  
